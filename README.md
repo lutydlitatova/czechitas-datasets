@@ -12,3 +12,4 @@ Dataset | Zdroj
 `lexikon-zvirat.csv` | https://data.gov.cz/dataset?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2Fhttp---opendata.praha.eu-api-3-action-package_show-id-zoo-lexikon-zvirat
 `sportoviste.json` | https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2Fhttp---kod.opava-city.cz-api-3-action-package_show-id-sportoviste
 `water-potability.csv` | https://www.kaggle.com/adityakadiwal/water-potability
+`kosatce.csv` | modified iris dataset
