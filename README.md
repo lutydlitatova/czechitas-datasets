@@ -13,3 +13,5 @@ Dataset | Zdroj
 `sportoviste.json` | https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2Fhttp---kod.opava-city.cz-api-3-action-package_show-id-sportoviste
 `water-potability.csv` | https://www.kaggle.com/adityakadiwal/water-potability
 `kosatce.csv` | modified iris dataset
+`soybean-1-spot.csv` | subset of soybean dataset (https://archive.ics.uci.edu/ml/datasets/Soybean+(Large))
+`soybean-2-rot.csv` | subset of soybean dataset (https://archive.ics.uci.edu/ml/datasets/Soybean+(Large))
