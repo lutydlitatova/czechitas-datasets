@@ -15,3 +15,4 @@ Dataset | Zdroj
 `kosatce.csv` | modified iris dataset
 `soybean-1-spot.csv` | subset of soybean dataset (https://archive.ics.uci.edu/ml/datasets/Soybean+(Large))
 `soybean-2-rot.csv` | subset of soybean dataset (https://archive.ics.uci.edu/ml/datasets/Soybean+(Large))
+`auto.csv` | auto dataset from the ISLR package (https://cran.r-project.org/web/packages/ISLR/ISLR.pdf)
