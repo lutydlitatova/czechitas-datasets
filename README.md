@@ -18,4 +18,6 @@ Dataset | Zdroj
 `auto.csv` | auto dataset from the ISLR package (https://cran.r-project.org/web/packages/ISLR/ISLR.pdf)
 `wine-quality.csv` | modified wine quality dataset (https://archive.ics.uci.edu/ml/datasets/Wine+Quality)
 `wine-regions.csv` | modified wine dataset (https://archive.ics.uci.edu/ml/datasets/Wine)
+`movies.csv` | subset of IMDB genre classification dataset
+
 
