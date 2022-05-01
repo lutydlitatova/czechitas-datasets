@@ -1,4 +1,4 @@
-id;nazev_cz;nazev_en;trida_cz;cena;k_prohlidce;
+id;nazev_cz;nazev_en;trida_cz;cena;k_prohlidce
 7;"Šváb syčivý";"Madagascar giant cockroach ";"Bezobratlí";1000;1
 8;"Pakobylka okřídlená";"Pink-winged stick insect";"Bezobratlí";1000;1
 16;"Tayra";"Tayra";"Savci";5000;1
@@ -512,4 +512,3 @@ id;nazev_cz;nazev_en;trida_cz;cena;k_prohlidce;
 1419;"Bažant paví";" ";"Ptáci";1000;1
 1420;"Sojkovec rezavouchý";" ";"Ptáci";1000;1
 1421;"Kachnice kaštanová";" ";"Ptáci";1000;1
-;"";"";"";;
